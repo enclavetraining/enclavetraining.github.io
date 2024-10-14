@@ -5,10 +5,8 @@
 
 Watch this video for the complete agenda for this course.
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+[![Watch the video](https://img.youtube.com/vi/-r7VwoIitlg/hqdefault.jpg)](https://www.youtube.com/embed/-r7VwoIitlg)
 
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
 
 
 ### Enclave Administrator - Day 1 agenda
@@ -60,34 +58,3 @@ Watch this video for the complete agenda for this course.
     * Secure virtual networks with Network Security Groups and Application * Security Groups
     * Azure Key Vault and implementing secure data
     * Defender for Cloud and Microsoft Sentinel
-
-
-## Enclave Administrator - Day 1
-
-### Agenda
-* What is the PLx and Enclave environment
-* What are the differences from Commercial Cloud
-* What does the architecture look like
-* Azure portal and resources
-* Administer Identity
-	* Cloud identities
-	* Hybrid identities – Azure AD DS
-	* Role-based access control (RBAC)
-* Administer Azure resources
-* Administer Virtual Machines
-* Labs:
-    * Manage subscriptions and RBAC
-	* Manage Entra ID identities
-	* Manage Hybrid identities with Entra ID Connect
-	* Manage Azure resources using Azure portal (ARM templates, PowerShell, and CLI optional)
-	* Manage Virtual machines
-
-### What is the PLx and Enclave environment?
-
-Watch this video to learn about the basics of PLx and the Enclave architecture.
-
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
-
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
-
