@@ -23,7 +23,7 @@ email: michael@opsgility.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://plxtraining.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  mwasham
+github_username:  plxtraining
 
 # Build settings
 #theme: minima
