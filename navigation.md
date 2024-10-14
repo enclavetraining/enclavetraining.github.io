@@ -1,8 +1,7 @@
 
 - [Home](/)
-- [Introduction to PLX Enclave 3-day Agenda](introduction-plx-enclave-3-day-agenda)
-- [Enclave Administration](introduction-plx-enclave-day-1)
-    - [What is Plx and Enclave?](module1)
+- [Introduction to PLX Enclave 3-day Agenda](introduction-plx-enclave-admin-agenda)
+- [Enclave Administration](plx-enclave-admin-lp1)
+    - [What is Plx and Enclave?](plx-enclave-admin-lp1-mod1)
     - [Azure Portal and Resources](module2)
     
-

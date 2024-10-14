@@ -1,17 +1,17 @@
 
-## Enclave Administrator - Day 1
+## Enclave Administrator - Learning Path 1
 
 ### Agenda
-* What is the PLx and Enclave environment
-* What are the differences from Commercial Cloud
-* What does the architecture look like
-* Azure portal and resources
-* Administer Identity
+* Module 1 - What is the PLx and Enclave environment
+    * What are the differences from Commercial Cloud
+    * What does the architecture look like
+* Module 2 - Azure portal and resources
+* Module 3 - Administer Identity
 	* Cloud identities
 	* Hybrid identities – Azure AD DS
 	* Role-based access control (RBAC)
-* Administer Azure resources
-* Administer Virtual Machines
+* Module 4 - Administer Azure resources
+* Module 5 - Administer Virtual Machines
 * Labs:
     * Manage subscriptions and RBAC
 	* Manage Entra ID identities
@@ -19,7 +19,7 @@
 	* Manage Azure resources using Azure portal (ARM templates, PowerShell, and CLI optional)
 	* Manage Virtual machines
 
-### What is the PLx and Enclave environment?
+### Module 1 - What is the PLx and Enclave environment?
 
 Watch this video to learn about the basics of PLx and the Enclave architecture.
 

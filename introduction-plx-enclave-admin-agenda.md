@@ -9,7 +9,7 @@ Watch this video for the complete agenda for this course.
 
 
 
-### Enclave Administrator - Day 1 agenda
+### Enclave Administrator - Learning Path 1 agenda
 
 * What is the PLx and Enclave environment
 * What are the differences from Commercial Cloud
@@ -29,7 +29,7 @@ Watch this video for the complete agenda for this course.
 	* Manage Virtual machines
 	
 
-### Enclave Administrator - Day 2 agenda
+### Enclave Administrator - Learning Path 2 agenda
 
 * Design and deploy Azure Virtual Desktop (AVD) for Virtual Enclaves
 * Manage access and security for AVD
@@ -42,7 +42,7 @@ Watch this video for the complete agenda for this course.
     * Implement data protection (Azure Backup and Site Recovery)
 
 
-### Enclave Administrator - Day 3 agenda
+### Enclave Administrator - Learning Path 3 agenda
 
 * Implement and administer monitoring
 * Administer governance and compliance with Azure Policy
